@@ -66,6 +66,6 @@
         </config-file>
         
         <source-file src="src/android/Analytics.java" target-dir="src/org/apache/cordova/umeng" />
-        <source-file src="src/android/libs/umeng-analytics-v5.6.1.jar" target-dir="libs" />
+        <source-file src="src/android/libs/umeng-analytics-v5.6.4.jar" target-dir="libs" />
     </platform>
 </plugin>
